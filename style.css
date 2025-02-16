@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+#text {
+    margin: 20px;
+    font-size: 30px;
+    transition: all 0.3s ease;
+}
+.controls {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+input, select {
+    padding: 5px;
+    font-size: 16px;
+    width : 20%;
+}
